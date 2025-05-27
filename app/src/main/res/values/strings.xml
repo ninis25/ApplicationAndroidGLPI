@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MibDesk</string>
+    <string name="settings_title">Paramètres de connexion</string>
+    <string name="protocol_title">Protocole</string>
+    <string name="server_address_title">Adresse du serveur</string>
+    <string name="server_address_hint">Exemple: 192.168.1.100 ou itsm.example.com</string>
+    <string name="save_button">Enregistrer</string>
+    <string name="settings_saved">Paramètres enregistrés</string>
+    <string name="error_empty_server">L\'adresse du serveur ne peut pas être vide</string>
+    <string name="settings_icon_description">Paramètres</string>
+</resources>

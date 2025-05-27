@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_stylish_splash_background.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/stylish_splash_background.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_loading_animation.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/loading_animation.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_logo.png.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_gradient_background.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/layout_activity_settings.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/layout_activity_error.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_error.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/anim_rotate.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/anim/rotate.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_stylish_gradient_background.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/stylish_gradient_background.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_rounded_button_background.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/rounded_button_background.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_test.png.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/test.png"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_ic_settings.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_splash_background.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/layout_activity_splash.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/xml_preferences.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/xml/preferences.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_dynamic_gradient_background.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/dynamic_gradient_background.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/anim_fade_in.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/layout_error_timeout_dialog.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/layout/error_timeout_dialog.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_loading_circle.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/loading_circle.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_logo_g_100_black.png.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/logo_g_100_black.png"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/layout_loading_dialog.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/anim_pulse.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/anim/pulse.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/xml_provider_paths.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-merged_res-37:/drawable_logo_black_background.xml.flat",
+        "source": "com.example.glpiwebview.app-main-38:/drawable/logo_black_background.xml"
+    }
+]

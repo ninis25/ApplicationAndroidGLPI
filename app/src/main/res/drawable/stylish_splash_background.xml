@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fond dégradé stylé -->
+    <item android:drawable="@drawable/stylish_gradient_background" />
+    
+    <!-- Logo centré avec effet de pulsation -->
+    <item
+        android:drawable="@drawable/test"
+        android:gravity="center"
+        android:width="180dp"
+        android:height="180dp" />
+</layer-list>

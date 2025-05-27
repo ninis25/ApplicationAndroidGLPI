@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.glpiwebview.app-mergeDebugResources-42:/layout/activity_error.xml",
+        "source": "com.example.glpiwebview.app-main-45:/layout/activity_error.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeDebugResources-42:/layout/activity_splash.xml",
+        "source": "com.example.glpiwebview.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeDebugResources-42:/layout/loading_dialog.xml",
+        "source": "com.example.glpiwebview.app-main-45:/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeDebugResources-42:/layout/error_timeout_dialog.xml",
+        "source": "com.example.glpiwebview.app-main-45:/layout/error_timeout_dialog.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.glpiwebview.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeDebugResources-42:/layout/dialog_api_login.xml",
+        "source": "com.example.glpiwebview.app-main-45:/layout/dialog_api_login.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeDebugResources-42:/layout/activity_settings.xml",
+        "source": "com.example.glpiwebview.app-main-45:/layout/activity_settings.xml"
+    }
+]

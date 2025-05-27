@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.glpiwebview.app-mergeReleaseResources-36:/layout/error_timeout_dialog.xml",
+        "source": "com.example.glpiwebview.app-main-38:/layout/error_timeout_dialog.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeReleaseResources-36:/layout/activity_settings.xml",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeReleaseResources-36:/layout/activity_splash.xml",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeReleaseResources-36:/layout/activity_main.xml",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeReleaseResources-36:/layout/loading_dialog.xml",
+        "source": "com.example.glpiwebview.app-main-38:/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "com.example.glpiwebview.app-mergeReleaseResources-36:/layout/activity_error.xml",
+        "source": "com.example.glpiwebview.app-main-38:/layout/activity_error.xml"
+    }
+]

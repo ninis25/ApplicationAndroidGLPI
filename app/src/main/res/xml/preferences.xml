@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/settings_title">
+        <ListPreference
+            android:defaultValue="http"
+            android:entries="@array/protocol_entries"
+            android:entryValues="@array/protocol_values"
+            android:key="protocol"
+            android:title="@string/protocol_title" />
+        <EditTextPreference
+            android:key="server_address"
+            android:title="@string/server_address_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

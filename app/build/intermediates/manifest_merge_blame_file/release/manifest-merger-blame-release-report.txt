@@ -1,0 +1,151 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.glpiwebview"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:5:5-65
+12-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:5:22-62
+13    <uses-permission
+13-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:6:5-107
+14        android:name="android.permission.READ_EXTERNAL_STORAGE"
+14-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:6:22-77
+15        android:maxSdkVersion="32" />
+15-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:6:78-104
+16    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+16-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:7:5-76
+16-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:7:22-73
+17    <uses-permission
+17-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:8:5-108
+18        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+18-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:8:22-78
+19        android:maxSdkVersion="28" />
+19-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:8:79-105
+20
+21    <application
+21-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:10:5-54:19
+22        android:name="com.example.glpiwebview.ITSMApplication"
+22-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:11:9-40
+23        android:allowBackup="true"
+23-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:12:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.8.0] /Users/anissefouka/.gradle/caches/transforms-3/0132e3357c9024168cdfcf13d3ca7a24/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:13:9-43
+26        android:label="@string/app_name"
+26-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:14:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:15:9-54
+28        android:supportsRtl="true"
+28-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:16:9-35
+29        android:theme="@style/Theme.ITSMMibTech"
+29-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:17:9-49
+30        android:usesCleartextTraffic="true" >
+30-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:18:9-44
+31        <provider
+31-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:20:9-28:20
+32            android:name="androidx.core.content.FileProvider"
+32-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:21:13-62
+33            android:authorities="com.example.glpiwebview.fileprovider"
+33-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:22:13-71
+34            android:exported="false"
+34-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:23:13-37
+35            android:grantUriPermissions="true" >
+35-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:24:13-47
+36            <meta-data
+36-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:25:13-27:58
+37                android:name="android.support.FILE_PROVIDER_PATHS"
+37-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:26:17-67
+38                android:resource="@xml/provider_paths" />
+38-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:27:17-55
+39        </provider>
+40
+41        <activity
+41-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:30:9-38:20
+42            android:name="com.example.glpiwebview.SplashActivity"
+42-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:31:13-43
+43            android:exported="true"
+43-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:32:13-36
+44            android:theme="@style/SplashTheme" >
+44-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:33:13-47
+45            <intent-filter>
+45-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:34:13-37:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:35:17-69
+46-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:35:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:36:17-77
+48-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:36:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:40:9-42:40
+52            android:name="com.example.glpiwebview.SettingsActivity"
+52-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:41:13-45
+53            android:exported="false" />
+53-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:42:13-37
+54        <activity
+54-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:44:9-47:62
+55            android:name="com.example.glpiwebview.MainActivity"
+55-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:45:13-41
+56            android:configChanges="orientation|screenSize"
+56-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:47:13-59
+57            android:exported="false" />
+57-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:46:13-37
+58        <activity
+58-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:49:9-52:68
+59            android:name="com.example.glpiwebview.ErrorActivity"
+59-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:50:13-42
+60            android:exported="false"
+60-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:51:13-37
+61            android:theme="@style/Theme.ITSMMibTech.NoActionBar" />
+61-->/Users/anissefouka/Documents/stage_maroc/app_android_web/app/src/main/AndroidManifest.xml:52:13-65
+62
+63        <uses-library
+63-->[androidx.window:window:1.0.0] /Users/anissefouka/.gradle/caches/transforms-3/795688f4371b1c79bdc989971fb6fb5d/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+64            android:name="androidx.window.extensions"
+64-->[androidx.window:window:1.0.0] /Users/anissefouka/.gradle/caches/transforms-3/795688f4371b1c79bdc989971fb6fb5d/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+65            android:required="false" />
+65-->[androidx.window:window:1.0.0] /Users/anissefouka/.gradle/caches/transforms-3/795688f4371b1c79bdc989971fb6fb5d/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+66        <uses-library
+66-->[androidx.window:window:1.0.0] /Users/anissefouka/.gradle/caches/transforms-3/795688f4371b1c79bdc989971fb6fb5d/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+67            android:name="androidx.window.sidecar"
+67-->[androidx.window:window:1.0.0] /Users/anissefouka/.gradle/caches/transforms-3/795688f4371b1c79bdc989971fb6fb5d/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+68            android:required="false" />
+68-->[androidx.window:window:1.0.0] /Users/anissefouka/.gradle/caches/transforms-3/795688f4371b1c79bdc989971fb6fb5d/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.2.0] /Users/anissefouka/.gradle/caches/transforms-3/2ec9e017405823f3f335359cf09dccb9/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.2.0] /Users/anissefouka/.gradle/caches/transforms-3/2ec9e017405823f3f335359cf09dccb9/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+72            android:authorities="com.example.glpiwebview.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.2.0] /Users/anissefouka/.gradle/caches/transforms-3/2ec9e017405823f3f335359cf09dccb9/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.2.0] /Users/anissefouka/.gradle/caches/transforms-3/2ec9e017405823f3f335359cf09dccb9/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.2.0] /Users/anissefouka/.gradle/caches/transforms-3/2ec9e017405823f3f335359cf09dccb9/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.2.0] /Users/anissefouka/.gradle/caches/transforms-3/2ec9e017405823f3f335359cf09dccb9/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.2.0] /Users/anissefouka/.gradle/caches/transforms-3/2ec9e017405823f3f335359cf09dccb9/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/anissefouka/.gradle/caches/transforms-3/7b32cc20b9e2f0c27f1e562574bc2e99/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/anissefouka/.gradle/caches/transforms-3/7b32cc20b9e2f0c27f1e562574bc2e99/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/anissefouka/.gradle/caches/transforms-3/7b32cc20b9e2f0c27f1e562574bc2e99/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+80        </provider>
+81    </application>
+82
+83</manifest>
