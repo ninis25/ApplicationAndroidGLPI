@@ -137,9 +137,5 @@ En cas d'erreur de compilation, vérifiez :
 
 ## Licence
 
-© 2025 MibTech. Tous droits réservés.
+© Réalisé par Anisse Fouka dans le cadre de son stage
 
-## Contact
-
-Pour toute question ou assistance technique, veuillez contacter l'équipe de développement MibTech.
-f
